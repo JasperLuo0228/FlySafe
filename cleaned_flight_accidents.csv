@@ -1,0 +1,474 @@
+acc. date,type,operator,Onboard Fatality,Ground Fatality,Total Fatality,location,dmg,capacity
+28 Jan 1961,B707,American Airlines,6,0,6,"8 km W off Montauk Point, NY",w/o,189
+15 Feb 1961,B707,Sabena,72,1,73,3 km NE of Brussel-Zaventem Airport (BRU),w/o,189
+1 Mar 1962,B707,American Airlines,95,0,95,"Jamaica Bay, NY",w/o,189
+22 May 1962,B707,Continental Air Lines,45,0,45,"10 km NNW of Unionville, MO",w/o,189
+3 Jun 1962,B707,Air France,130,0,130,Paris-Orly Airport (ORY),w/o,189
+22 Jun 1962,B707,Air France,113,0,113,25 km WNW of Pointe-à-Pitre-Le Raizet Airport (PTP),w/o,189
+27 Nov 1962,B707,Varig,97,0,97,ca 25 km SE of Lima-Callao International Airport (LIM),w/o,189
+8 Dec 1963,B707,Pan American World Airways (Pan Am),81,0,81,"Elkton, MD",w/o,189
+23 Nov 1964,B707,Trans World Airlines - TWA,50,0,50,Roma-Fiumicino Airport (FCO),w/o,189
+16 Aug 1965,B727,United Airlines,30,0,30,"Lake Michigan, MI",w/o,189
+17 Sep 1965,B707,Pan American World Airways (Pan Am),30,0,30,Chances Peak,w/o,189
+8 Nov 1965,B727,American Airlines,58,0,58,"3 km N of Cincinnati-Greater Cincinnati, OH",w/o,189
+11 Nov 1965,B727,United Airlines,43,0,43,"Salt Lake City International Airport, UT (SLC)",w/o,189
+4 Dec 1965,B707,Trans World Airlines - TWA,0,4,4,"New York, NY",sub,189
+24 Jan 1966,B707,Air-India,117,0,117,Mont Blanc,w/o,189
+4 Feb 1966,B727,All Nippon Airways - ANA,133,0,133,12 km ESE off Tokyo-Haneda Airport (HND) [Tokyo Bay],w/o,189
+5 Mar 1966,B707,British Overseas Airways Corporation - BOAC,124,0,124,Mount Fuji,w/o,189
+15 Nov 1966,B727,Pan American World Airways (Pan Am),3,0,3,near Dallgow,w/o,189
+19 Jul 1967,B727,Piedmont Airlines,79,3,82,"Hendersonville, NC",w/o,189
+6 Nov 1967,B707,Trans World Airlines - TWA,1,0,1,"Cincinnati/Northern Kentucky Airport, KY (CVG)",w/o,189
+7 Feb 1968,B707,"Canadian Pacific Air Lines - CPAL, lsf Standard Airways",1,1,2,"Vancouver International Airport, BC (YVR)",w/o,189
+16 Feb 1968,B727,Civil Air Transport,21,1,22,11 km NW of Taipei,w/o,189
+5 Mar 1968,B707,Air France,63,0,63,"27,5 km SSW of Pointe-à-Pitre",w/o,189
+8 Apr 1968,B707,British Overseas Airways Corporation - BOAC,5,0,5,London-Heathrow Airport (LHR),w/o,189
+20 Apr 1968,B707,South African Airways - SAA,123,0,123,5 km E of Windhoek-Strijdom International Airport (WDH),w/o,189
+13 Jun 1968,B707,Pan American World Airways (Pan Am),6,0,6,1 km from Calcutta-Dum Dum Airport (CCU),w/o,189
+13 Jul 1968,B707,Sabena,7,0,7,14 km N of Lagos-Murtala Muhammed Airport (LOS),w/o,189
+12 Dec 1968,B707,Pan American World Airways (Pan Am),51,0,51,"18,4 km N off Caracas",w/o,189
+26 Dec 1968,B707,El Al Israel Airlines,1,0,1,Athens-Ellinikon International Airport (ATH),sub,189
+26 Dec 1968,B707,Pan American World Airways (Pan Am),3,0,3,"Anchorage-Elmendorf AFB, AK (EDF)",w/o,189
+5 Jan 1969,B727,Ariana Afghan Airlines,48,2,50,"2,5 km E of London-Gatwick Airport (LGW)",w/o,189
+18 Jan 1969,B727,United Airlines,38,0,38,"20 km W off Los Angeles, CA [Santa Monica Bay]",w/o,189
+4 Jun 1969,B727,Mexicana de Aviación,79,0,79,23 km NW of Monterrey-Gen Mariano Escobedo Airport (MTY),w/o,189
+26 Jul 1969,B707,Trans World Airlines - TWA,5,0,5,"Atlantic City International Airport, NJ (ACY)",w/o,189
+3 Aug 1969,B707,American Airlines,0,1,1,"Fort Worth, TX",sub,189
+21 Sep 1969,B727,Mexicana de Aviación,27,0,27,"1,5 km NE of Mexico City-Juarez International Airport (MEX)",w/o,189
+3 Dec 1969,B707,Air France,62,0,62,"ca 6,5 km off Caracas-Simon Bolivar Airport (CCS)",w/o,189
+12 Dec 1969,B707,Ethiopian Airlines,2,0,2,Athens (ATH),non,189
+20 Jul 1970,B737,Condor Flugdienst,0,3,3,Tarragona,min,230
+6 Sep 1970,B707,El Al Israel Airlines,1,0,1,London-Heathrow Airport (LHR),non,189
+30 Nov 1970,B707,Trans World Airlines - TWA,0,2,2,Tel Aviv-Lod International Airport (TLV),w/o,189
+28 Dec 1970,B727,Trans Caribbean Airways,2,0,2,Saint Thomas-Harry S.Truman Airport (STT),w/o,189
+9 Jan 1971,B707,American Airlines,0,2,2,"Edison, NJ",sub,189
+11 Jun 1971,B727,Trans World Airlines - TWA,1,0,1,"New York-John F. Kennedy International Airport, NY (JFK)",unk,189
+23 Jul 1971,B727,Trans World Airlines - TWA,1,0,1,"New York-La Guardia Airport, NY (LGA)",unk,189
+25 Jul 1971,B707,Pan American World Airways (Pan Am),4,0,4,32 km ENE of Manila International Airport (MNL),w/o,189
+30 Jul 1971,B727,All Nippon Airways - ANA,162,0,162,near Shizukuishi,w/o,189
+4 Sep 1971,B727,Alaska Airlines,111,0,111,"35 km W of Juneau, AK",w/o,189
+8 May 1972,B707,Sabena,3,0,3,Tel Aviv-Lod International Airport (TLV),unk,189
+2 Jul 1972,B747,Pan American World Airways (Pan Am),1,0,1,Saigon-Tan Son Nhat International Airport (SGN),unk,660
+5 Jul 1972,B737,Pacific Southwest Airlines - PSA,3,0,3,"San Francisco International Airport, CA (SFO)",unk,230
+29 Oct 1972,B727,Eastern Air Lines,0,1,1,Havana-José Martí International Airport (HAV),non,189
+5 Dec 1972,B707,EgyptAir,6,0,6,Beni Suef,w/o,189
+8 Dec 1972,B737,United Airlines,43,2,45,"2 km from Chicago-Midway Airport, IL (MDW)",w/o,230
+2 Jan 1973,B707,Pacific Western Airlines,5,0,5,"ca 3 km SE of Edmonton International Airport, AB (YEG)",w/o,189
+22 Jan 1973,B707,"Nigeria Airways, lsf Alia Royal Jordanian Airlines",176,0,176,Kano International Airport (KAN),w/o,189
+21 Feb 1973,B727,Libyan Arab Airlines,108,0,108,35 km SE of Isma'iliya,w/o,189
+31 May 1973,B737,Indian Airlines,48,0,48,6 km from Delhi-Indira Gandhi International Airport (DEL),w/o,230
+9 Jun 1973,B707,Varig,2,0,2,"off Rio de Janeiro-Galeão International Airport, RJ (GIG)",w/o,189
+11 Jul 1973,B707,Varig,123,0,123,5 km W of Paris-Orly Airport (ORY),w/o,189
+22 Jul 1973,B707,Pan American World Airways (Pan Am),78,0,78,"3 km NE off Papeete-Faaa Airport (PPT), Tahiti",w/o,189
+27 Jul 1973,B727,Federal Aviation Administration - FAA,0,3,3,"over Yukon, OK",sub,189
+28 Aug 1973,B707,Trans World Airlines - TWA,1,0,1,"35 miles W of Los Angeles, CA",non,189
+18 Oct 1973,B727,Air France,1,0,1,Marseille-Marignane Airport (MRS),unk,189
+3 Nov 1973,B707,Pan American World Airways (Pan Am),3,0,3,"Boston-Logan International Airport, MA (BOS)",w/o,189
+3 Nov 1973,DC10,National Airlines,1,0,1,"near Socorro, NM",sub,380
+17 Dec 1973,B707,Pan American World Airways (Pan Am),30,0,30,Roma-Fiumicino Airport (FCO),w/o,189
+17 Dec 1973,B737,Lufthansa,1,0,1,Kuwait International Airport (KWI),unk,230
+30 Jan 1974,B707,Pan American World Airways (Pan Am),97,0,97,"1,2 km SW of Pago Pago International Airport (PPG)",w/o,189
+3 Mar 1974,DC10,Türk Hava Yollari - THY,346,0,346,Bois d'Ermenonville,w/o,380
+22 Apr 1974,B707,Pan American World Airways (Pan Am),107,0,107,68 km NW of Denpasar,w/o,189
+10 May 1974,B727,Avianca,1,0,1,Bogotá-Eldorado Airport (BOG),non,189
+24 Jul 1974,B727,Avianca,1,0,1,Cali Airport (CLO),unk,189
+8 Sep 1974,B707,Trans World Airlines - TWA,88,0,88,"93 km W off Cephalonia, Greece",w/o,189
+15 Sep 1974,B727,Air Vietnam,75,0,75,near Phan Rang Air Base (PHA),w/o,189
+20 Nov 1974,B747,Lufthansa,59,0,59,Nairobi International Airport (NBO),w/o,660
+1 Dec 1974,B727,Northwest Orient Airlines,3,0,3,"Stony Point, NY",w/o,189
+1 Dec 1974,B727,Trans World Airlines - TWA,92,0,92,"Upperville, VA",w/o,189
+1 Mar 1975,B737,Iraqi Airways,1,0,1,Tehran-Mehrabad Airport (THR),unk,230
+24 Jun 1975,B727,Eastern Air Lines,113,0,113,"New York-John F. Kennedy International Airport, NY (JFK)",w/o,189
+3 Aug 1975,B707,"Jordanian World Airways, opf Royal Air Maroc - RAM",188,0,188,near Amskroud,w/o,189
+15 Sep 1975,B727,Continental Air Lines,1,0,1,"San Jose Municipal Airport, CA (SJC)",non,189
+30 Sep 1975,B727,Avianca,4,0,4,Barranquilla-Soledad Airport (BAQ),w/o,189
+5 Apr 1976,B727,Alaska Airlines,1,0,1,"Ketchikan International Airport, AK (KTN)",w/o,189
+27 Apr 1976,B727,American Airlines,37,0,37,Saint Thomas-Harry S. Truman Airport (STT),w/o,189
+9 May 1976,B747,Imperial Iranian Air Force - IIAF,17,0,17,near Madrid,w/o,660
+2 Aug 1976,B707,Korean Air Lines - KAL,5,0,5,17 km WNW of Tehran-Mehrabad Airport (THR),w/o,189
+19 Sep 1976,B727,Türk Hava Yollari - THY,154,0,154,near Isparta,w/o,189
+13 Oct 1976,B707,"Lloyd Aéreo Boliviano - LAB, lsf Jet Power",3,88,91,"0,6 km NW of Santa Cruz-El Trompillo Airport (SRZ)",w/o,189
+23 Dec 1976,B707,Air France,0,1,1,Beijing Capital International Airport (PEK),non,189
+25 Dec 1976,B707,EgyptAir,52,19,71,ca 2 km NE of Bangkok-Don Muang International Airport (BKK),w/o,189
+17 Mar 1977,B727,All Nippon Airways - ANA,1,0,1,Tokyo,non,189
+27 Mar 1977,B747,KLM Royal Dutch Airlines,248,335,583,Tenerife-Los Rodeos International Airport (TCI),w/o,660
+27 Mar 1977,B747,Pan American World Airways (Pan Am),335,248,583,Tenerife-Los Rodeos International Airport (TCI),w/o,660
+14 May 1977,B707,"IAS Cargo, lsf Dan-Air Services",6,0,6,"3,7 km W of Lusaka Airport (LUN)",w/o,189
+13 Oct 1977,B737,Lufthansa,4,0,4,Mogadishu International Airport (MGQ),min,230
+20 Oct 1977,B737,Frontier Airlines (FL),1,0,1,"Kansas City, MO",unk,230
+19 Nov 1977,B707,Ethiopian Airlines,5,0,5,"0,5 km W of Roma-Fiumicino Airport (FCO)",w/o,189
+19 Nov 1977,B727,TAP Air Portugal,131,0,131,Funchal Airport (FNC),w/o,189
+4 Dec 1977,B737,Malaysian Airlines System - MAS,100,0,100,near Tanjong Kupang,w/o,230
+1 Jan 1978,B747,Air-India,213,0,213,3 km W off Bombay-Santacruz Airport (BOM),w/o,660
+11 Feb 1978,B737,Pacific Western Airlines,42,0,42,"Cranbrook Airport, BC (YXC)",w/o,230
+1 Mar 1978,DC10,Continental Air Lines,2,0,2,"Los Angeles International Airport, CA (LAX)",w/o,380
+9 Mar 1978,B737,China Airlines,1,0,1,Hong Kong,non,230
+20 Apr 1978,B707,Korean Air Lines - KAL,2,0,2,Korpijärvi Lake,sub,189
+8 May 1978,B727,National Airlines,3,0,3,"Escambia Bay, FL",w/o,189
+25 Sep 1978,B727,Pacific Southwest Airlines - PSA,135,9,144,"5,6 km NE of San Diego International Airport, CA (SAN)",w/o,189
+17 Dec 1978,B737,Indian Airlines,1,3,4,Hyderabad-Begumpet Airport (HYD),w/o,230
+30 Jan 1979,B707,Varig,6,0,6,"c 200km ENE off Tokyo, Japan",mis,189
+17 Feb 1979,B707,Trans Mediterranean Airways - TMA,0,1,1,Taoyuan,sub,189
+14 Mar 1979,B727,Alia Royal Jordanian Airlines,45,0,45,Doha Airport (DOH),w/o,189
+4 Apr 1979,B747,Pan American World Airways (Pan Am),0,1,1,"Sydney-Kingsford Smith Airport, NSW (SYD)",non,660
+25 May 1979,DC10,American Airlines,271,2,273,"Chicago-O'Hare International Airport, IL (ORD)",w/o,380
+23 Jul 1979,B707,Trans Mediterranean Airways - TMA,6,0,6,Beirut International Airport (BEY),w/o,189
+26 Jul 1979,B707,Lufthansa Cargo,3,0,3,"25 km N of Rio de Janeiro-Galeão International Airport, RJ (GIG)",w/o,189
+11 Sep 1979,B707,China Airlines,6,0,6,off Taipei-Chiang Kai Shek International Airport (TPE),w/o,189
+31 Oct 1979,DC10,Western Air Lines,72,1,73,Mexico City-Juarez International Airport (MEX),w/o,380
+26 Nov 1979,B707,Pakistan International Airlines - PIA,156,0,156,48 km N of Taif,w/o,189
+28 Nov 1979,DC10,Air New Zealand,257,0,257,Mount Erebus,w/o,380
+21 Jan 1980,B727,Iran Air,128,0,128,29 km N of Tehran-Mehrabad Airport (THR),w/o,189
+27 Feb 1980,B707,China Airlines,2,0,2,Manila International Airport (MNL),w/o,189
+12 Apr 1980,B727,Transbrasil,55,0,55,"22 km NNE of Florianópolis-Hercilio Luz International Airport, SC (FLN)",w/o,189
+25 Apr 1980,B727,Dan-Air Services,146,0,146,Esperanzo Forest,w/o,189
+10 May 1980,B737,Indian Airlines,2,0,2,"Over Rampur Hat, West Bengal state",sub,230
+13 Oct 1980,B727,Türk Hava Yollari - THY,1,0,1,Diyarbakir Airport (DIY),min,189
+19 Nov 1980,B747,Korean Air Lines - KAL,14,0,14,Seoul-Gimpo (Kimpo) International Airport (SEL),w/o,660
+10 Apr 1981,A300,Eastern Air Lines,1,0,1,"Miami International Airport, FL (MIA)",non,280
+22 Aug 1981,B737,Far Eastern Air Transport - FEAT,110,0,110,"near Sanyi Township, Miaoli County",w/o,230
+20 Sep 1981,DC10,World Airways,1,0,1,between Baltimore and London,non,380
+13 Jan 1982,B737,Air Florida,74,4,78,"1,4 km  N of Washington-National Airport, DC (DCA) [Potomac River]",w/o,230
+23 Jan 1982,DC10,World Airways,2,0,2,"Boston-Logan International Airport, MA (BOS)",w/o,380
+8 Mar 1982,B707,Trans World Airlines - TWA,1,0,1,"Las Vegas, NV",non,189
+24 May 1982,B737,VASP - Viação Aérea São Paulo,2,0,2,"Brasilia International Airport, DF (BSB)",w/o,230
+8 Jun 1982,B727,VASP - Viação Aérea São Paulo,137,0,137,"Serra de Pacatuba, CE",w/o,189
+22 Jun 1982,B707,Air-India,17,0,17,Bombay-Santacruz Airport (BOM),w/o,189
+9 Jul 1982,B727,Pan American World Airways (Pan Am),145,8,153,"1,4 km E of New Orleans International Airport, LA (MSY)",w/o,189
+11 Aug 1982,B747,Pan American World Airways (Pan Am),1,0,1,225 km from Hawaii,min,660
+20 Aug 1982,B737,Indian Airlines,1,0,1,Amritsar Airport (ATQ),non,230
+13 Sep 1982,DC10,Spantax,50,0,50,Málaga Airport (AGP),w/o,380
+16 Jan 1983,B727,Türk Hava Yollari - THY,47,0,47,Ankara-Esenboga Airport (ESB),w/o,189
+20 Jan 1983,B727,Northwest Orient Airlines,1,0,1,"Portland International Airport, OR (PDX)",non,189
+22 Feb 1983,B737,VASP - Viação Aérea São Paulo,2,0,2,"Manaus-Eduardo Gomes International Airport, AM (MAO)",w/o,230
+14 Mar 1983,B707,Jamahiriya Air Transport,5,0,5,30 km N of Sebha,w/o,189
+11 Jul 1983,B737,TAME Ecuador,119,0,119,"1,5 km from Cuenca",w/o,230
+1 Sep 1983,B747,Korean Air Lines - KAL,269,0,269,37 km W off Sakhalinsk [Okhotsk Sea],w/o,660
+23 Sep 1983,B737,Gulf Air,112,0,112,Mino Jebel Ali,w/o,230
+8 Nov 1983,B737,TAAG Angola Airlines,130,0,130,1 km from Lubango Airport (SDD),w/o,230
+27 Nov 1983,B747,"Avianca, lsf Scandinavian Airlines System - SAS",181,0,181,12 km SE of Madrid-Barajas Airport (MAD),w/o,660
+7 Dec 1983,B727,Iberia,51,42,93,Madrid-Barajas Airport (MAD),w/o,189
+14 Dec 1983,B707,TAMPA Colombia,3,22,25,near Medellín-Enrique Olaya Herrera Airport (EOH),w/o,189
+31 Jan 1984,B727,Aerolineas Argentinas,0,1,1,Rio Grande,non,189
+30 Aug 1984,B737,Cameroon Airlines,2,0,2,Douala Airport (DLA),w/o,230
+16 Sep 1984,B737,Iraqi Airways,3,0,3,Baghdad-Saddam International Airport (SDA),non,230
+4 Dec 1984,A300,Kuwait Airways,2,0,2,Tehran-Mehrabad Airport (THR),non,280
+1 Jan 1985,B727,Eastern Air Lines,29,0,29,Nevado Illimani,w/o,189
+23 Jan 1985,B727,Lloyd Aéreo Boliviano - LAB,1,0,1,55 km from Santa Cruz,sub,189
+19 Feb 1985,B727,Iberia,148,0,148,30 km SE of Bilbao Airport (BIO),w/o,189
+23 Feb 1985,B707,Middle East Airlines - MEA,1,0,1,Beirut International Airport (BEY),min,189
+17 Mar 1985,B737,Saudi Arabian Airlines,1,0,1,Dhahran International Airport (DHA),min,230
+15 Apr 1985,B737,Thai Airways,11,0,11,18 km from Phuket International Airport (HKT),w/o,230
+14 Jun 1985,B727,Trans World Airlines - TWA,1,0,1,Beirut International Airport (BEY),unk,189
+23 Jun 1985,B747,Air-India,329,0,329,"176 km W off Cork, Ireland",w/o,660
+5 Aug 1985,B727,Iran Air,1,0,1,Bandar Abbas Airport (BND),non,189
+12 Aug 1985,B747,Japan Air Lines - JAL,520,0,520,"26 km SW of Ueno Village, Tano district, Gunma Prefecture",w/o,660
+15 Aug 1985,B707,Alyemda,3,0,3,Aden,sub,189
+22 Aug 1985,B737,British Airtours,55,0,55,Manchester International Airport (MAN),w/o,230
+24 Nov 1985,B737,EgyptAir,60,0,60,Malta-Luqa Airport (MLA),w/o,230
+28 Jan 1986,B737,VASP - Viação Aérea São Paulo,1,0,1,"São Paulo-Guarulhos International Airport, SP (GRU)",w/o,230
+16 Feb 1986,B737,China Airlines,13,0,13,19 km N off Magong Airport (MZG),w/o,230
+31 Mar 1986,B727,Mexicana de Aviación,167,0,167,Las Mesas,w/o,189
+2 Apr 1986,B727,Trans World Airlines - TWA,4,0,4,over Argos,sub,189
+5 Sep 1986,B747,Pan American World Airways (Pan Am),20,0,20,Karachi International Airport (KHI),min,660
+15 Oct 1986,B737,Iran Air,3,0,3,Shiraz Airport (SYZ),w/o,230
+6 Nov 1986,B727,Pan American World Airways (Pan Am),0,1,1,"Tampa International Airport, FL (TPA)",sub,189
+25 Dec 1986,B737,Iraqi Airways,63,0,63,near Arar,w/o,230
+3 Jan 1987,B707,Varig,50,0,50,18 km NE of Abidjan-Felix Houphouet Boigny Airport (ABJ),w/o,189
+13 Apr 1987,B707,Burlington Air Express,4,0,4,"5,5 km S of Kansas City International Airport, MO (MCI)",w/o,189
+16 Jun 1987,B737,CAAC,0,1,1,Fuzhou Yixu Airport (FOC),sub,230
+24 Jul 1987,DC10,Air Afrique,1,0,1,Genève-Cointrin Airport (GVA),unk,380
+4 Aug 1987,B737,LAN Chile,1,0,1,Calama-El Loa Airport (CJC),w/o,230
+11 Aug 1987,B747,All Nippon Airways - ANA,1,0,1,"Washington, DC",non,660
+31 Aug 1987,B737,Thai Airways,83,0,83,15 km E off Phuket International Airport (HKT),w/o,230
+21 Sep 1987,A300,EgyptAir,5,0,5,Luxor Airport (LXR),w/o,280
+28 Nov 1987,B747,South African Airways - SAA,159,0,159,250 km NE off Mauritius,w/o,660
+29 Nov 1987,B707,Korean Air,115,0,115,"100 km NW off Tavoy, Myanmar [Andaman Sea]",w/o,189
+2 Jan 1988,B737,Condor Flugdienst,16,0,16,near Seferihisar,w/o,230
+27 Feb 1988,B727,Talia Airways,15,0,15,near Girne Arap,w/o,189
+17 Mar 1988,B727,Avianca,143,0,143,25 km NW of Cúcuta-Camilo Daza Airport (CUC),w/o,189
+5 Apr 1988,B747,Kuwait Airways,2,0,2,Algiers-Houari Boumediene Airport (ALG),unk,660
+28 Apr 1988,B737,Aloha Airlines,1,0,1,"near Maui, HI",sub,230
+26 Jun 1988,A320,"Air France, opf Air Charter International",3,0,3,Mulhouse-Habsheim Airport,w/o,244
+3 Jul 1988,A300,Iran Air,290,0,290,4 km SE off Qeshm Island,w/o,280
+21 Jul 1988,B707,Angola Air Charter,6,0,6,10 km N of Lagos-Murtala Muhammed International Airport (LOS),w/o,189
+31 Aug 1988,B727,Delta Air Lines,14,0,14,"Dallas/Fort Worth International Airport, TX (DFW)",w/o,189
+15 Sep 1988,B737,Ethiopian Airlines,35,0,35,10 km SW of Bahar Dar Airport (BJR),w/o,230
+29 Sep 1988,B737,VASP - Viação Aérea São Paulo,1,0,1,"Goiânia-Santa Genoveva Airport, GO (GYN)",unk,230
+17 Oct 1988,B707,Uganda Airlines,33,0,33,1 km SE of Roma-Fiumicino Airport (FCO),w/o,189
+19 Oct 1988,B737,Indian Airlines,133,0,133,"2,54 km NE of Ahmedabad Airport (AMD)",w/o,230
+13 Dec 1988,B707,GAS Air Nigeria,8,1,9,Karm `Umran,w/o,189
+21 Dec 1988,B747,Pan American World Airways (Pan Am),259,11,270,Lockerbie,w/o,660
+8 Jan 1989,B737,British Midland Airways - BMA,47,0,47,near Kegworth,w/o,230
+8 Feb 1989,B707,Independent Air,144,0,144,"7 km E of Santa Maria-Vila do Porto Airport, Azores (SMA)",w/o,189
+19 Feb 1989,B747,Flying Tiger Line,4,0,4,12 km from Kuala Lumpur Subang International Airport (KUL),w/o,660
+24 Feb 1989,B747,United Airlines,9,0,9,near Hawaii,sub,660
+21 Mar 1989,B707,"Transbrasil, lsf Omega Air Inc",3,22,25,"2,7 km W of São Paulo-Guarulhos International Airport, SP (GRU)",w/o,189
+19 Jul 1989,DC10,United Airlines,111,0,111,"Sioux Gateway Airport, IA (SUX)",w/o,380
+27 Jul 1989,DC10,Korean Air,75,4,79,"2,4 km E of Tripoli International Airport (TIP)",w/o,380
+3 Sep 1989,B737,Varig,12,0,12,"São José do Xingu, MT",w/o,230
+19 Sep 1989,DC10,Union de Transports Aériens - UTA,170,0,170,Ténéré desert,w/o,380
+20 Sep 1989,B737,USAir,2,0,2,"New York-La Guardia Airport, NY (LGA)",w/o,230
+21 Oct 1989,B727,"TAN Honduras, lsf Continental Air Lines",131,0,131,9 km S of Tegucigalpa-Toncontin Airport (TGU),w/o,189
+26 Oct 1989,B737,China Airlines,54,0,54,"5,5 km N of Hualien Airport (HUN)",w/o,230
+27 Nov 1989,B727,Avianca,107,0,107,16 km SW of Bogotá-Eldorado Airport (BOG),w/o,189
+14 Jan 1990,B747,British Airways,0,1,1,"Piarco Int Airport, Trinidad",unk,660
+18 Jan 1990,B727,Eastern Air Lines,0,1,1,"Atlanta-William B. Hartsfield International Airport, GA (ATL)",sub,189
+25 Jan 1990,B707,Avianca,73,0,73,"Cove Neck, NY",w/o,189
+26 Jan 1990,B727,Iran Air,4,0,4,Shiraz Airport (SYZ),unk,189
+14 Feb 1990,A320,Indian Airlines,92,0,92,"0,7 km W of Bangalore-Hindustan Airport (BLR)",w/o,244
+11 May 1990,B737,Philippine Air Lines,8,0,8,Manila-Ninoy Aquino International Airport (MNL),w/o,230
+11 Sep 1990,B727,Faucett Perú,16,0,16,"290 km SE off Newfoundland, Canada",mis,189
+20 Sep 1990,B707,Omega Air Inc,1,0,1,"Marana-Pinal Air Park, AZ (MZJ)",w/o,189
+2 Oct 1990,B757,China Southern Airlines,46,82,128,Guangzhou-Baiyun Airport (CAN),w/o,239
+2 Oct 1990,B737,Xiamen Airlines,82,46,128,Guangzhou-Baiyun Airport (CAN),w/o,230
+4 Dec 1990,B707,Sudania Air Cargo,10,0,10,5 km SW of Nairobi-Jomo Kenyatta International Airport (NBO),w/o,189
+1 Feb 1991,B737,USAir,22,12,34,"Los Angeles International Airport, CA (LAX)",w/o,230
+3 Mar 1991,B737,United Airlines,25,0,25,"6,4 km S of Colorado Springs, CO",w/o,230
+25 Mar 1991,A310,Singapore Airlines,4,0,4,Singapore-Changi Airport (SIN),non,280
+26 May 1991,B767,Lauda Air,223,0,223,"5,6 km NNE of Phu Toey",w/o,375
+16 Aug 1991,B737,Indian Airlines,69,0,69,38 km SW of Imphal Municipal Airport (IMF),w/o,230
+29 Oct 1991,B707,Royal Australian Air Force - RAAF,5,0,5,"43 km S off East Sale, VIC, Australia",w/o,189
+29 Dec 1991,B747,China Airlines,5,0,5,near Wanli,w/o,660
+8 Jan 1992,B747,Japan Airlines (JAL),0,1,1,Tokyo Narita International Airport (NRT/RJAA),min,660
+20 Jan 1992,A320,Air Inter,87,0,87,"19,5 km SW of Strasbourg-Entzheim Airport (SXB)",w/o,244
+24 Mar 1992,B707,Golden Star Air Cargo,7,0,7,"5,5 km SE of Athens-Ellinikon International Airport (ATH)",w/o,189
+4 May 1992,B757,United Airlines,1,0,1,"Denver-Stapleton Airport, CO (DEN/KDEN)",non,239
+6 Jun 1992,B737,COPA Panama - Compañía Panameña de Aviación,47,0,47,13 km SW of Tucutí,w/o,230
+22 Jun 1992,B737,VASP - Viação Aérea São Paulo,3,0,3,"15 km W of Cruzeiro do Sul-Campo Internacional Airport, AC (CZS)",w/o,230
+31 Jul 1992,A310,Thai Airways International,113,0,113,40 km N of Kathmandu-Tribhuvan Airport (KTM),w/o,280
+23 Aug 1992,B747,Korean Airlines,0,1,1,"Chicago-O'Hare International Airport, IL (ORD/KORD)",non,660
+28 Sep 1992,A300,Pakistan International Airlines - PIA,167,0,167,18 km S of Kathmandu-Tribhuvan Airport (KTM),w/o,280
+4 Oct 1992,B747,El Al Israel Airlines,4,39,43,"Bijlmermeer, Amsterdam",w/o,660
+24 Nov 1992,B737,China Southern Airlines,141,0,141,20 km S of Guilin Airport (KWL),w/o,230
+8 Dec 1992,B737,USAir,0,1,1,"New York-La Guardia Airport, NY (LGA/KLGA)",non,230
+21 Dec 1992,DC10,Martinair Holland,56,0,56,Faro Airport (FAO),w/o,380
+22 Dec 1992,B727,Libyan Arab Airlines,159,0,159,9 km E of Tripoli International Airport (TIP),w/o,189
+30 Mar 1993,B737,Royal Thai Air Force - RTAF,6,0,6,Muang Khon Kaen,w/o,230
+6 Apr 1993,MD11,China Eastern Airlines,2,0,2,"1760 km S of Shemya, AK",min,293
+24 Apr 1993,B737,Indian Airlines,1,0,1,Amritsar-Raja Sansi Airport (ATQ),non,230
+26 Apr 1993,B737,Indian Airlines,55,0,55,3 km NE of Aurangabad Airport (IXU),w/o,230
+19 May 1993,B727,SAM Colombia,132,0,132,60 km NW of Medellín,w/o,189
+26 Jul 1993,B737,Asiana Airlines,68,0,68,"7,5 km SW of Mokpo Airport (MPK)",w/o,230
+14 Sep 1993,A320,Lufthansa,2,0,2,Warszawa-Okecie Airport (WAW),w/o,244
+25 Oct 1993,A310,Nigeria Airways,1,0,1,Niamey Airport (NIM),min,280
+8 Mar 1994,B737,Sahara Airlines,4,5,9,Delhi-Indira Gandhi International Airport (DEL),w/o,230
+23 Mar 1994,A310,Aeroflot Russian International Airlines,75,0,75,near Mezhduretshensk,w/o,280
+26 Apr 1994,A300,China Airlines,264,0,264,Nagoya-Komaki International Airport (NGO),w/o,280
+27 Apr 1994,B727,Transafrik,0,7,7,M'Banza Congo Airport (SSY),w/o,189
+30 Jun 1994,A330,Airbus Industrie,7,0,7,Toulouse-Blagnac Airport (TLS),w/o,440
+8 Sep 1994,B737,USAir,132,0,132,"near Aliquippa, PA",w/o,230
+13 Sep 1994,B737,Polynesian Airlines,1,0,1,"Faleolo International Airport, Upolu",min,230
+11 Dec 1994,B747,Philippine Air Lines,1,0,1,near Minami-Daito Island,sub,660
+19 Dec 1994,B707,Nigeria Airways,3,0,3,near Kiri Kasama,w/o,189
+21 Dec 1994,B737,"Phoenix Aviation Ltd, lsf Air Algérie",5,0,5,"1,7 km NE of Coventry-Baginton Airport (CVT)",w/o,230
+26 Dec 1994,A300,Air France,7,0,7,Marseille-Provence Airport (MRS),sub,280
+29 Dec 1994,B737,THY Turkish Airlines,57,0,57,4 km from Van Airport (VAN),w/o,230
+21 Jan 1995,B747,Royal Air Maroc - RAM,0,3,3,"Montreal (Mirabel) International Airport, Quebec",unk,660
+31 Mar 1995,A310,Tarom,60,0,60,3 km N of Bucharest-Otopeni International Airport (OTP),w/o,280
+9 Aug 1995,B737,Aviateca,65,0,65,24 km NE of San Salvador,w/o,230
+22 Sep 1995,B707,United States Air Force - USAF,24,0,24,"ca 2 km NE of Anchorage-Elmendorf AFB, AK (EDF)",w/o,189
+13 Nov 1995,B737,Nigeria Airways,11,0,11,Kaduna Airport (KAD),w/o,230
+30 Nov 1995,B707,Azerbaijan Airlines,2,0,2,9 km from Baku Airport (BAK),w/o,189
+3 Dec 1995,B737,Cameroon Airlines,71,0,71,"1,7 km S of Douala Airport (DLA)",w/o,230
+20 Dec 1995,B757,American Airlines,159,0,159,Buga,w/o,239
+20 Dec 1995,B707,Trans Mediterranean Airways (TMA),1,0,1,Over Chiba Prefecture,non,189
+28 Jan 1996,B757,Britannia Airways,1,0,1,"Near Málaga–Costa del Sol Airport, Churriana, Málaga",non,239
+6 Feb 1996,B757,"Alas Nacionales, lsf Birgenair",189,0,189,"26 km NE off Puerto Plata, Dominican Republic",w/o,239
+29 Feb 1996,B737,Faucett Perú,123,0,123,"6,3 km W of Arequipa-Rodriguez Ballon Airport (AQP)",w/o,230
+3 Apr 1996,B737,United States Air Force - USAF,35,0,35,3 km N of Dubrovnik Airport (DBV),w/o,230
+9 Jun 1996,B727,Iran Air,4,0,4,5 km W of Rasht Airport (RAS),w/o,189
+13 Jun 1996,DC10,Garuda Indonesia Airways,3,0,3,Fukuoka Airport (FUK),w/o,380
+17 Jul 1996,B747,Trans World Airlines - TWA,230,0,230,"13 km S off East Moriches, NY",w/o,660
+5 Sep 1996,B747,Air France,1,0,1,At around 30 miles from Ouagadougou at FL350,sub,660
+2 Oct 1996,B757,AeroPeru,70,0,70,"89 km NW off Lima, Peru",w/o,239
+22 Oct 1996,B707,Millon Air,4,23,27,SW of Manta Airport (MEC),w/o,189
+23 Oct 1996,B707,Fuerza Aérea Argentina - FAA,2,0,2,"Buenos Aires/Ezeiza-Ministro Pistarini Airport, BA (EZE)",w/o,189
+7 Nov 1996,B727,ADC Airlines,144,0,144,"7,5 km W of Ejirin",w/o,189
+12 Nov 1996,B747,Saudi Arabian Airlines,312,37,349,5 km from Charki Dadri,w/o,660
+23 Nov 1996,B767,Ethiopian Airlines,125,0,125,"0,5 km N off Mitsamiouli, Grande Comore",w/o,375
+14 Feb 1997,B737,Varig,1,0,1,"Carajás Airport, PA (CKS)",w/o,230
+8 May 1997,B737,China Southern Airlines,35,0,35,Shenzhen Airport (SZX),w/o,230
+2 Aug 1997,B757,Continental Airlines,1,0,1,Lima Jorge Chavez International Airport (LIM/SPJC),non,239
+6 Aug 1997,B747,Korean Air,228,0,228,"4,8 km SW of Guam-Agana International Airport (GUM)",w/o,660
+26 Sep 1997,A300,Garuda Indonesia Airways,234,0,234,25 km SSW of Medan-Polonia Airport (MES),w/o,280
+19 Dec 1997,B737,Silkair,104,0,104,56 km N of Palembang,w/o,230
+22 Dec 1997,A300,China Eastern Airlines,1,0,1,Xiamen Airport (XMN),non,280
+28 Dec 1997,B747,United Airlines,1,0,1,1530 km ESE of Tokyo,w/o,660
+16 Feb 1998,A300,China Airlines,196,7,203,Taipei-Chiang Kai Shek International Airport (TPE),w/o,280
+10 Mar 1998,B707,Air Memphis,6,0,6,Mombasa-Moi International Airport (MBA),w/o,189
+19 Mar 1998,B727,Ariana Afghan Airlines,45,0,45,15 km S of Kabul Airport (KBL),w/o,189
+22 Mar 1998,A320,Philippine Air Lines,0,3,3,Bacolod Airport (BCD),w/o,244
+20 Apr 1998,B727,"TAME Ecuador, opf Air France",53,0,53,10 km SW of Bogotá-Eldorado Airport (BOG),w/o,189
+5 May 1998,B737,"Occidental Petroleum, lsf Fuerza Aérea del Peru - FAP",75,0,75,3 km from Andoas,w/o,230
+2 Sep 1998,MD11,Swissair,229,0,229,"9 km SW off Peggy's Cove, NS",w/o,293
+10 Oct 1998,B727,Lignes Aeriennes Congolaises - LAC / CAL,41,0,41,near Kindu Airport (KND),w/o,189
+29 Oct 1998,B737,THY Turkish Airlines,1,0,1,Diyarbakir Airport (DIY),non,230
+11 Dec 1998,A310,Thai Airways International,101,0,101,"0,7 km S of Surat Thani Airport (URT)",w/o,280
+11 Mar 1999,DC10,World Airways,0,1,1,San Jose Juan Santamaria International Airport (SJO),non,380
+7 Apr 1999,B737,THY Turkish Airlines,6,0,6,near Ceyhan,w/o,230
+15 Apr 1999,MD11,Korean Air,3,5,8,10 km SW of Shanghai-Hongqiao Airport (SHA),w/o,293
+7 Jul 1999,B727,"Hinduja Cargo Services, opf Lufthansa Cargo Airlines",5,0,5,11 km SW of Kathmandu-Tribhuvan Airport (KTM),w/o,189
+23 Jul 1999,B747,All Nippon Airways - ANA,1,0,1,near Tokyo,non,660
+22 Aug 1999,MD11,China Airlines,3,0,3,Hong Kong-Chek Lap Kok International Airport (HKG),w/o,293
+31 Aug 1999,B737,LAPA - Líneas Aéreas Privadas Argentinas,63,2,65,"Buenos Aires-Jorge Newbery Airport, BA (AEP)",w/o,230
+14 Sep 1999,B757,Britannia Airways,1,0,1,Gerona-Costa Brava Airport (GRO),w/o,239
+31 Oct 1999,B767,EgyptAir,217,0,217,"100 km S off Nantucket Island, MA, USA",w/o,375
+21 Dec 1999,DC10,"Cubana de Aviación, lsf AOM French Airlines",16,2,18,Guatemala City-La Aurora Airport (GUA),w/o,380
+22 Dec 1999,B747,Korean Air,4,0,4,near Great Hallingbury,w/o,660
+24 Dec 1999,A300,Indian Airlines,1,0,1,Kandahar Airport (KDH),non,280
+30 Jan 2000,A310,Kenya Airways,169,0,169,"2,8 km S off Abidjan-Felix Houphouet Boigny Airport (ABJ)",w/o,280
+2 Feb 2000,A300,Iran Air,0,8,8,Tehran-Mehrabad Airport (THR),w/o,280
+19 Apr 2000,B737,Air Philippines,131,0,131,8 km NE of Davao City-Francisco Bangoy International Airport (DVO),w/o,230
+25 May 2000,A330,Philippine Air Lines,1,0,1,near Manila,non,440
+5 Jul 2000,A320,Royal Jordanian Airlines,1,0,1,Amman-Queen Alia International Airport (AMM),min,244
+17 Jul 2000,B737,Alliance Air,55,5,60,2 km SW of Patna Airport (PAT),w/o,230
+23 Aug 2000,A320,Gulf Air,143,0,143,2 km N off Bahrain International Airport (BAH),w/o,244
+27 Sep 2000,B737,China Xinhua Airlines,1,0,1,Jinan Airport (TNA),non,230
+31 Oct 2000,B747,Singapore Airlines,83,0,83,Taipei-Chiang Kai Shek Airport (TPE),w/o,660
+20 Nov 2000,A300,American Airlines,1,0,1,"Miami International Airport, FL (MIA/KMIA)",min,280
+5 Jan 2001,B727,Air Gemini Cargo,0,1,1,Dundo Airport (DUE),w/o,189
+3 Mar 2001,B737,Thai Airways International,1,0,1,Bangkok International Airport (BKK),w/o,230
+5 Sep 2001,B777,British Airways,0,1,1,"Denver International Airport, CO (DEN)",sub,396
+11 Sep 2001,B757,American Airlines,64,125,189,"Washington, DC",w/o,239
+11 Sep 2001,B757,United Airlines,44,0,44,"3,8 km N of Shanksville, PA",w/o,239
+11 Sep 2001,B767,United Airlines,65,900,965,"New York, NY",w/o,375
+11 Sep 2001,B767,American Airlines,92,1600,1692,"New York, NY",w/o,375
+12 Nov 2001,A300,American Airlines,260,5,265,"Belle Harbor, NY",w/o,280
+27 Nov 2001,B747,MK Airlines,1,0,1,near Port Harcourt,w/o,660
+16 Jan 2002,B737,Garuda Indonesia Airways,1,0,1,"22,5 km NE of Yokyakarta",w/o,230
+28 Jan 2002,B727,TAME Ecuador,94,0,94,27 km NW of Ipiales,w/o,189
+15 Apr 2002,B767,Air China,129,0,129,"4,6 km N of Pusan-Kimhae Airport (PUS)",w/o,375
+7 May 2002,B737,EgyptAir,14,0,14,"6,6 km NW of Tunis-Carthage Airport (TUN)",w/o,230
+25 May 2002,B747,China Airlines,225,0,225,"45 km NE off Penghu islands, Taiwan [Taiwan Strait]",w/o,660
+1 Jul 2002,B757,DHL Aviation,2,69,71,Überlingen,w/o,239
+4 Jul 2002,B707,New Gomair,28,0,28,Bangui,w/o,189
+11 Jan 2003,A320,Skyservice Airlines,0,1,1,"Pearson International Airport, Toronto, Ontario",non,244
+6 Mar 2003,B737,Air Algérie,102,0,102,Tamanrasset Airport (TMR),w/o,230
+8 Jul 2003,B737,Sudan Airways,116,0,116,5 km E of Port Sudan,w/o,230
+25 Dec 2003,B727,Union des Transports Africains de Guinée,141,0,141,Cotonou Airport (COO),w/o,189
+3 Jan 2004,B737,Flash Airlines,148,0,148,15 km S off Sharm el Sheikh,w/o,230
+13 Jul 2004,B737,Air Astana,0,1,1,Moskva-Sheremetyevo Airport (SVO/UUEE),unk,230
+14 Oct 2004,B747,MK Airlines,7,0,7,"Halifax International Airport, NS (YHZ)",w/o,660
+3 Feb 2005,B737,"Kam Air, lsf Phoenix Aviation",105,0,105,32 km ESE of Kabul Airport (KBL),w/o,230
+20 Apr 2005,B707,Saha Air,3,0,3,Tehran-Mehrabad Airport (THR),w/o,189
+14 Aug 2005,B737,Helios Airways,121,0,121,2 km from Grammatikos,w/o,230
+23 Aug 2005,B737,Transportes Aéreos Nacionales de la Selva - TANS,40,0,40,"5,5 km S of Pucallpa-Cap. FAP David A. Abensur Rengifo Airport (PCL)",w/o,230
+5 Sep 2005,B737,Mandala Airlines,100,49,149,Medan-Polonia Airport (MES),w/o,230
+8 Sep 2005,B747,Saudi Arabian Airlines,1,0,1,Colombo-Bandaranaike International Airport (CMB/VCBI),non,660
+16 Oct 2005,A330,SriLankan Airlines,1,0,1,Colombo-Bandaranaike International Airport (CMB/VCBI),non,440
+22 Oct 2005,B737,Bellview Airlines,117,0,117,"Lisa Village, Ogun State",w/o,230
+8 Dec 2005,B737,Southwest Airlines,0,1,1,"Chicago-Midway Airport, IL (MDW)",sub,230
+16 Jan 2006,B737,Continental Airlines,0,1,1,El Paso International Airport (ELP),min,230
+3 May 2006,A320,Armavia,113,0,113,6 km SW off Adler/Sochi Airport (AER),w/o,244
+12 May 2006,B737,Shanghai Airlines,0,1,1,Harbin Taiping International Airport (HRB/ZYHB),unk,230
+9 Jul 2006,A310,S7 Airlines,125,0,125,Irkutsk Airport (IKT),w/o,280
+29 Sep 2006,B737,Gol Transportes Aéreos,154,0,154,"30 km from Peixoto Azevedo, MT",w/o,230
+29 Oct 2006,B737,ADC Airlines,96,0,96,Abuja International Airport (ABV),w/o,230
+18 Nov 2006,B727,Aerosucre Colombia,6,0,6,"3,7 km N of Leticia-Alfredo Vásquez Cobo Airport (LET)",w/o,189
+1 Jan 2007,B737,AdamAir,102,0,102,85 km W off Pambauang,w/o,230
+7 Mar 2007,B737,Garuda Indonesia Airways,21,0,21,Yogyakarta-Adisutjipto Airport (JOG),w/o,230
+5 May 2007,B737,Kenya Airways,114,0,114,"5,5 km SE of Douala Airport (DLA)",w/o,230
+28 Jun 2007,B737,TAAG Angola Airlines,5,1,6,M'Banza Congo Airport (SSY),w/o,230
+10 Jul 2007,B737,Sky King Inc.,1,0,1,"Tunica Air Center, MS (KUTA)",non,230
+17 Jul 2007,A320,TAM Linhas Aéreas,187,12,199,"São Paulo-Congonhas Airport, SP (CGH)",w/o,244
+24 Feb 2008,A320,GB Airways,1,0,1,"Ataturk Airport, Istanbul (IST)",non,244
+30 May 2008,A320,TACA International Airlines,3,2,5,Tegucigalpa-Toncontin Airport (TGU),w/o,244
+10 Jun 2008,A310,Sudan Airways,30,0,30,Khartoum-Civil Airport (KRT),w/o,280
+16 Jun 2008,A320,LTE International Airways,0,1,1,Tenerife-Sur Reina Sofia Airport (TFS/GCTS),min,244
+18 Jun 2008,A320,Air India,1,0,1,Budapest Ferihegy,non,244
+7 Jul 2008,B747,"Centurion Air Cargo, lsf Kalitta Air",0,2,2,10 km W of Bogotá-Eldorado Airport (BOG),w/o,660
+24 Aug 2008,B737,"Itek Air, opf Iran Aseman Airlines",65,0,65,"7,8 km WNW of Bishkek-Manas International Airport (FRU)",w/o,230
+27 Aug 2008,B737,Sriwijaya Air,0,1,1,Jambi-Sultan Thaha Syarifudn Airport (DJB),sub,230
+30 Aug 2008,B737,Conviasa,3,0,3,near Toacaso,w/o,230
+14 Sep 2008,B737,Aeroflot-Nord,88,0,88,"11,5 km NE of Perm Airport (PEE)",w/o,230
+27 Nov 2008,A320,"XL Airways Germany, lsf Air New Zealand",7,0,7,5 km E off Canet-Plage,w/o,244
+25 Feb 2009,B737,THY Turkish Airlines,9,0,9,"1,5 km N of Amsterdam-Schiphol International Airport (AMS)",w/o,230
+23 Mar 2009,MD11,FedEx Express,2,0,2,Tokyo-Narita Airport (NRT),w/o,293
+29 Apr 2009,B737,Bako Air,7,0,7,"Massamba, Bandundu Province",w/o,230
+19 May 2009,B777,American Airlines,0,1,1,"Miami International Airport, FL (MIA/KMIA)",non,396
+1 Jun 2009,A330,Air France,228,0,228,c 160km NNW off São Pedro and São Paulo Archipelago,w/o,440
+30 Jun 2009,A310,Yemenia Airways,152,0,152,6 km NW off Mitsamiouli,w/o,280
+21 Oct 2009,B707,"Sudan Airways, lsf AZZA Transport",6,0,6,"1,6 km NW of Sharjah Airport (SHJ)",w/o,189
+28 Nov 2009,MD11,Avient Aviation,3,0,3,Shanghai-Pudong International Airport (PVG),w/o,293
+21 Dec 2009,B737,Canadian North,0,1,1,"Calgary International Airport (CYYC), Alberta",non,230
+25 Jan 2010,B737,Ethiopian Airlines,90,0,90,11 km SW off Beirut International Airport (BEY),w/o,230
+7 Apr 2010,B737,Magnicharters,0,1,1,Mexico City International Airport (MMMX),non,230
+13 Apr 2010,A300,AeroUnion - Aerotransporte de Carga Union,5,1,6,"0,7 km S of Monterrey International Airport (MTY)",w/o,280
+12 May 2010,A330,Afriqiyah Airways,103,0,103,"ca 0,9 km W of Tripoli International Airport (TIP)",w/o,440
+22 May 2010,B737,Air India Express,158,0,158,Mangalore-Bajpe Airport (IXE),w/o,230
+28 Jul 2010,A320,Airblue,152,0,152,15 km NNW of Islamabad-Benazir Bhutto International Airport (ISB),w/o,244
+16 Aug 2010,B737,AIRES Colombia,2,0,2,San Andres Island-Gustavo Rojas Pinilla Airport (ADZ),w/o,230
+3 Sep 2010,B747,United Parcel Service - UPS,2,0,2,"16,7 km S of Dubai Airport (DXB)",w/o,660
+13 Oct 2010,A330,Qatar Airways,1,0,1,Near Kuala Lumpur (WMKK),non,440
+9 Jan 2011,B727,Iran Air,78,0,78,15 km SE of Urmia (Orumiyeh) Airport (OMH),w/o,189
+5 Jul 2011,B737,Alexandria Airlines Isf Marsland Aviation,1,0,1,Near Luxor,non,230
+8 Jul 2011,B727,Hewa Bora Airways,77,0,77,Kisangani-Bangoka International Airport (FKI),w/o,189
+28 Jul 2011,B747,Asiana Airlines,2,0,2,"130 km W off Jeju, South Korea [East China Sea]",w/o,660
+20 Aug 2011,B737,First Air,12,0,12,"1,8 km E of Resolute Airport, NU (YRB)",w/o,230
+17 Jan 2012,B757,UTair Aviation,1,0,1,over Russia,non,239
+17 Apr 2012,A300,Onur Air,1,0,1,Amman-Queen Alia International Airport (AMM/OJAI),non,280
+20 Apr 2012,B737,Bhoja Airlines,127,0,127,"4,2 km SE of Islamabad-Benazir Bhutto International Airport (ISB)",w/o,230
+2 Jun 2012,B727,Allied Air,0,10,10,Accra-Kotoka Airport (ACC),w/o,189
+23 Aug 2012,B747,British Airways,1,0,1,London Heathrow Airport (LHR/EGLL),non,660
+11 Nov 2012,A320,TAP Air Portugal,0,1,1,Roma-Fiumicino Airport (FCO/LIRF),sub,244
+29 Apr 2013,B747,National Airlines (National Air Cargo),7,0,7,Bagram Air Base (BPM),w/o,660
+6 Jul 2013,B777,Asiana Airlines,3,0,3,"San Francisco International Airport, CA (SFO)",w/o,396
+14 Aug 2013,A300,United Parcel Service - UPS,2,0,2,"1 km N of Birmingham-Shuttlesworth International Airport, AL (BHM)",w/o,280
+26 Sep 2013,B737,United Airlines,1,0,1,"70nm SW of Boise, ID",non,230
+17 Nov 2013,B737,Tatarstan Airlines,50,0,50,Kazan International Airport (KZN),w/o,230
+8 Mar 2014,B777,Malaysia Airlines,239,0,239,within Indian Ocean,w/o,396
+24 Jun 2014,A310,Pakistan International Airlines - PIA,1,0,1,near Peshawar-Bacha Khan International Airport (PEW),unk,280
+17 Jul 2014,B777,Malaysia Airlines,298,0,298,Hrabove,w/o,396
+17 Jul 2014,B737,Eastern Skyjets Opb Senegal Airlines,0,1,1,Libreville International Airport (LBV/FOOL),unk,230
+28 Dec 2014,A320,Indonesia AirAsia,162,0,162,Karimata Strait,w/o,244
+24 Mar 2015,A320,Germanwings,150,0,150,Prads-Haute-Bléone,w/o,244
+26 Jul 2015,A320,Shenzhen Airlines,1,0,1,"Guangzhou, Guangdong Province",min,244
+31 Oct 2015,A320,Metrojet,224,0,224,"ca 50 km SE of Hasna, North Sinai",w/o,244
+16 Dec 2015,A320,Air India,0,1,1,Mumbai-Chhatrapati Shivaji International Airport (BOM/VABB),min,244
+23 Dec 2015,B737,Pegasus Airlines,0,1,1,Istanbul-Sabiha Gökçen International Airport (SAW),sub,230
+24 Dec 2015,A310,Serve Air,0,8,8,Mbuji-Mayi Airport (MJM),sub,280
+2 Feb 2016,A320,"Daallo Airlines, lsf Hermes Airlines",1,0,1,near Mogadishu International Airport (MGQ),sub,244
+19 Mar 2016,B737,flydubai,62,0,62,Rostov Airport (ROV),w/o,230
+19 May 2016,A320,EgyptAir,66,0,66,ca 200 km N of Egyptian coast,w/o,244
+11 Jul 2016,A320,LATAM Brasil,0,1,1,"Salgado Filho Airport, Porto Alegre, RS",non,244
+3 Aug 2016,B777,Emirates,0,1,1,Dubai Airport (DXB),w/o,396
+20 Dec 2016,B727,Aerosucre Colombia,5,0,5,"7,5 km W of Puerto Carreño-Germán Olano Airport (PCR)",w/o,189
+16 Jan 2017,B747,"ACT Airlines, opf Turkish Cargo",4,35,39,1 km W of Bishkek-Manas International Airport (FRU),w/o,660
+24 Jun 2017,A320,Israir,1,0,1,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),non,244
+14 Mar 2018,B777,Emirates,1,0,1,Entebbe Airport (EBB/HUEN),non,396
+17 Apr 2018,B737,Southwest Airlines,1,0,1,"105 km NW of Philadelphia, PA",sub,230
+18 May 2018,B737,"Cubana de Aviación, lsf Global Air",112,0,112,1 km E of Havana-José Martí International Airport (HAV/MUHA),w/o,230
+28 Sep 2018,B737,Air Niugini,1,0,1,"0,5 km from Chuuk/Weno International Airport (TKK)",sub,230
+29 Oct 2018,B737,Lion Air,189,0,189,15 km N off Tanjung Bungin,w/o,230
+9 Nov 2018,B757,Fly Jamaica Airways,1,0,1,Georgetown-Cheddi Jagan International Airport (GEO),sub,239
+20 Nov 2018,B737,Aeroflot,0,1,1,Moskva-Sheremetyevo Airport (SVO/UUEE),min,230
+14 Jan 2019,B707,"Saha Air, lsf Islamic Republic of Iran Air Force - IRIAF",15,0,15,Fat'h Airport,w/o,189
+23 Feb 2019,B767,"Amazon Air, opb Atlas Air",3,0,3,"Trinity Bay, near Anahuac, TX",w/o,375
+24 Feb 2019,B737,Biman Bangladesh Airlines,1,0,1,Chittagong-Shah Amanat International Airport (CGP),min,230
+10 Mar 2019,B737,Ethiopian Airlines,157,0,157,50 km ESE of Addis Ababa-Bole Airport (ADD),w/o,230
+6 May 2019,B777,Kuwait Airways,0,1,1,Kuwait International Airport (KWI/OKBK),non,396
+8 Jan 2020,B737,Ukraine International Airlines,176,0,176,near Sabashahr,w/o,230
+5 Feb 2020,B737,Pegasus Airlines,3,0,3,Istanbul-Sabiha Gökçen International Airport (SAW),w/o,230
+7 Feb 2020,B737,Nok Air,0,1,1,Bangkok-Don Muang International Airport (DMK/VTBD),min,230
+7 May 2020,B737,Southwest Airlines,0,1,1,"Austin-Bergstrom International Airport, TX (AUS/KAUS)",min,230
+22 May 2020,A320,Pakistan International Airlines - PIA,97,1,98,"1,4 km E of Karachi-Jinnah International Airport (KHI)",w/o,244
+7 Aug 2020,B737,Air India Express,21,0,21,Kozhikode-Calicut Airport (CCJ),w/o,230
+9 Jan 2021,B737,Sriwijaya Air,62,0,62,19 km NE of Jakarta-Soekarno-Hatta International Airport (CGK),w/o,230
+24 Jan 2022,A320,Qingdao Airlines,0,1,1,Qingdao Jiaodong International Airport (TAO/ZSQD),non,244
+21 Mar 2022,B737,China Eastern Airlines,132,0,132,"20 km SW of Wuzhou, Tengxian County",w/o,230
+2 Sep 2022,A320,TAP Air Portugal,0,2,2,Conakry-Gbessia International Airport (CKY),sub,244
+18 Nov 2022,A320,LATAM Perú,0,2,2,Lima-Jorge Chávez International Airport (LIM),w/o,244
+23 Jun 2023,A320,Delta Air Lines,0,1,1,"San Antonio International Airport, TX (SAT/KSAT)",min,244
+14 Aug 2023,B787,LATAM Airlines Chile,1,0,1,"N of Panama, over Caribbean Sea",non,330
+29 Dec 2024,B737,Jeju Air,179,0,179,Muan International Airport (MWX/RKJB),w/o,230
+25 Nov 2024,B737,Swiftair opf DHL,1,0,1,"c. 1,3 km N of Vilnius International Airport (VNO/EYVI)",w/o,230
+2 Nov 2024,A350,Finnair,0,1,1,Helsinki - Vantaa (HEL / EFHK),min,440
+29 Oct 2024,A330,Flynas opb Lion Air,1,0,1,Madinah-Mohammad Bin Abdulaziz Airport (MED/OEMA),non,440
+8 Oct 2024,A350,THY Turkish Airlines,1,0,1,over northern Canada,non,440
+27 Aug 2024,B757,Delta Air Lines,0,2,2,"Hartsfield–Jackson Atlanta Int. Airport (ATL/KATL), Atlanta, GA",non,239
+2 Jul 2024,B737,Varesh Airlines,0,1,1,Chabahar-Konarak Airport (ZBR/OIZC),unk,230
+12 Jun 2024,A320,"Sky Vision Airlines, opf Nesma Airlines",1,0,1,NW of Jeddah,non,244
+21 May 2024,B777,Singapore Airlines,1,0,1,over Irrawaddy Basin,min,396
+2 Jan 2024,A350,Japan Airlines,0,5,5,Tokyo International Airport/Haneda (HND/RJTT),w/o,440
+19 Jan 2025,A320,LATAM Airlines Brasil,1,0,1,"São José do Rio Preto Airport, SP (SJP/SBSR)",non,244

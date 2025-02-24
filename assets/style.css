@@ -1,0 +1,352 @@
+.Select-menu-outer {
+  background-color: black !important;
+  color: white !important;
+}
+
+.VirtualizedSelectOption {
+  background-color: black !important;
+  color: white !important;
+}
+
+.rc-slider-track {
+  background-color: #8b52f7 !important;
+}
+
+.rc-slider-rail {
+  background-color: #555 !important;
+}
+
+.rc-slider-mark-text {
+  color: #555 !important;
+}
+
+.rc-slider-mark-text-active {
+  color: #aaa !important;
+}
+
+.rc-slider-handle {
+  border-color: #8b52f7 !important;
+  background-color: black !important;
+}
+
+.rc-slider-handle:hover {
+  border-color: #8b52f7 !important;
+}
+
+.rc-slider-dot {
+  background-color: black !important;
+  border-color: #555 !important;
+}
+
+.rc-slider-dot-active {
+  background-color: black !important;
+  border-color: #8b52f7 !important;
+}
+
+input[type="radio"] {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid #555;
+  background-color: black;
+  display: inline-block;
+  position: relative;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+input[type="radio"]:checked {
+  border: 2px solid #8b52f7 !important;
+  background-color: black !important;
+}
+
+.radio-label {
+  display: inline-flex;
+  align-items: center;
+  font-size: 16px;
+  line-height: normal;
+  margin-left: 5px;
+}
+
+.rc-slider-tooltip {
+  background-color: #8b52f7 !important;
+  border-radius: 4px;
+  box-shadow: none !important;
+  color: white !important;
+}
+
+.rc-slider-tooltip-inner {
+  background-color: #8b52f7 !important;
+  color: white !important;
+  font-weight: bold;
+  box-shadow: none !important;
+}
+
+html,
+body,
+div {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("./fonts/Roboto-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("./fonts/Roboto-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+body,
+html,
+div,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+select {
+  font-family: "Roboto", sans-serif !important;
+}
+
+h1 {
+  font-family: "Roboto-Bold", sans-serif !important;
+  font-weight: bold !important;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: calc(100% - 60px);
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.dashboard-title {
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 38px;
+  color: white;
+  text-align: right;
+  flex-grow: 1;
+}
+
+.dashboard-logo {
+  height: 50px;
+  width: auto;
+}
+
+.js-plotly-plot {
+  border-radius: 10px !important;
+  overflow: hidden;
+}
+
+.filter-container {
+  position: relative;
+  border-radius: 10px;
+  padding: 30px;
+  background: transparent;
+}
+
+.filter-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  padding: 2px;
+  background: linear-gradient(
+    to bottom,
+    rgba(139, 82, 247, 0.75),
+    rgba(139, 82, 247, 0)
+  );
+
+  mask: linear-gradient(white, white) content-box, linear-gradient(white, white);
+  mask-composite: exclude;
+
+  -webkit-mask: linear-gradient(white, white) content-box,
+    linear-gradient(white, white);
+  -webkit-mask-composite: destination-out;
+
+  z-index: -1;
+}
+
+.filter-container > div > label {
+  font-family: "Roboto-Bold", sans-serif !important;
+  font-weight: bold !important;
+  color: white !important;
+  font-size: 16px;
+}
+
+.filter-container .SelectItem label,
+.filter-container .radio-label,
+.filter-container dcc-radioitems label {
+  font-family: "Roboto", sans-serif !important;
+  font-weight: normal !important;
+}
+
+.rc-slider:focus,
+.rc-slider-handle:focus {
+  box-shadow: 0 0 0 2px #8b52f7 !important;
+}
+
+.Select-input input {
+  color: white !important;
+  caret-color: white !important;
+}
+
+.Select-value-label {
+  color: #8b52f7 !important;
+}
+
+.Select-value {
+  background-color: rgba(139, 82, 247, 0.2) !important;
+  border-color: rgba(139, 82, 247, 0.5) !important;
+}
+
+.Select-value-icon {
+  color: #8b52f7 !important;
+  border-color: rgba(139, 82, 247, 0.5) !important;
+}
+
+.Select-value-icon:hover {
+  color: #8b52f7 !important;
+}
+
+.Select-control {
+  box-shadow: 0 0 5px rgba(139, 82, 247, 0.6) !important;
+  border-color: rgba(139, 82, 247, 0.8) !important;
+}
+
+.Select-control:not(.is-focused) {
+  border: 1.5px solid rgba(85, 85, 85, 1) !important;
+  box-shadow: 0 0 5px rgba(85, 85, 85, 0.1) !important;
+}
+
+.is-focused .Select-control {
+  border-color: #8b52f7 !important;
+  box-shadow: 0 0 5px rgba(139, 82, 247, 0.1) !important;
+}
+
+.year-box {
+  background: white;
+  padding: 13px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  flex: 1;
+}
+
+.year-label {
+  font-size: 18px;
+  font-family: "Roboto-Bold", sans-serif !important;
+  color: #2f3e5c;
+  margin-top: 40px;
+  text-align: center;
+  display: block;
+}
+
+.year-labelLarge {
+  font-size: 22px;
+  font-family: "Roboto-Bold", sans-serif !important;
+  color: #2f3e5c;
+  margin-left: 10px;
+  text-align: left;
+  display: block;
+}
+
+.year-labelLargeWhite {
+  font-size: 22px;
+  font-family: "Roboto-Bold", sans-serif !important;
+  color: #ffffff;
+  margin-left: 10px;
+  text-align: left;
+  display: block;
+}
+
+.aircraft-title {
+  font-size: 30px;
+  font-family: "Roboto-Bold", sans-serif !important;
+  color: #2f3e5c;
+  margin: 0;
+}
+
+.aircraft-rank {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif !important;
+  color: #2f3e5c;
+  margin: 0;
+}
+
+.year-dropdown .Select-control {
+  background-color: #ffffff !important;
+  border: 1.5px solid #dddddd !important;
+  color: #555555 !important;
+  min-width: 150px;
+  width: 80%;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: none !important;
+}
+
+.year-dropdown .Select-menu-outer {
+  background-color: #ffffff !important;
+  color: #555555 !important;
+}
+
+.year-dropdown .VirtualizedSelectOption {
+  background-color: #ffffff !important;
+  color: #555555 !important;
+}
+
+.year-dropdown .VirtualizedSelectOption:hover {
+  background-color: #e0e0e0 !important;
+  color: #333333 !important;
+}
+
+.year-dropdown .Select-input input {
+  background-color: #ffffff !important;
+  color: #555555 !important;
+  caret-color: #555555 !important;
+  text-align: center !important;
+}
+
+.year-dropdown .Select-value {
+  background-color: #ffffff !important;
+  border-color: #dddddd !important;
+  color: #555555 !important;
+}
+
+.year-dropdown .Select-value-label {
+  color: #555555 !important;
+}
+
+.year-dropdown .is-focused .Select-control {
+  background-color: #ffffff !important;
+  border: 1.5px solid #dddddd !important;
+  box-shadow: none !important;
+}
+
+@font-face {
+  font-family: "Roboto-Italic";
+  src: url("/assets/fonts/SignPainter.ttc");
+}
+
+.italic-text {
+  font-family: "Roboto-Italic";
+  font-size: 18px;
+  color: white;
+  line-height: 1.6;
+  text-align: justify;
+}
