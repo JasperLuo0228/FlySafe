@@ -730,3 +730,5 @@ def update_latest_accidents(year_range):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+server = app.server
