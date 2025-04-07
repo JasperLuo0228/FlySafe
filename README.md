@@ -1,5 +1,3 @@
-## **Live Link**
-https://flysafe-hu0k.onrender.com
 # **Inspiration**
 Airplane accidents, while statistically rare, leave a profound impact on aviation safety and public perception. Our inspiration came from the need to provide a **comprehensive, data-driven, and interactive** way to explore these incidents—not just as isolated events, but as part of a larger narrative of **safety improvements, technological progress, and regulatory changes**. Instead of presenting raw data, we aimed to create an engaging, **highly visual dashboard** that helps users **identify patterns, analyze trends, and gain insights** into aviation risks and safety advancements.
 
