@@ -78,9 +78,21 @@ Implement models to analyze accident trends and **predict potential risk factors
 - **Improved User Engagement**  
 Add **gamification elements, expert insights, and educational resources** to encourage **aviation safety awareness**.  
 - **Cloud Deployment & Mobile Optimization**  
-Make FlySafe accessible **on mobile devices and cloud-hosted for broader usability**.  
+Make FlySafe accessible **on mobile devices and cloud-hosted for broader usability**.
 
 ---
 
 # **Final Thought**
 *"Aviation safety is not just about learning from the past—it’s about preventing the same mistakes in the future. By making accident data accessible, interactive, and insightful, we hope to contribute to a safer sky for everyone."*  
+
+![image](https://github.com/user-attachments/assets/21d980d6-c88f-439f-bb7d-fb691f06b79e)
+![image](https://github.com/user-attachments/assets/b895b69b-fe21-4333-8fd0-0808cf4a616d)
+![image](https://github.com/user-attachments/assets/ed45bc84-ba61-4ac0-b58a-6d8195163b6e)
+![image](https://github.com/user-attachments/assets/c53f3bf8-9144-4c87-9f0e-a6bb4561f780)
+![image](https://github.com/user-attachments/assets/96ad5f0f-9d34-4161-b94a-6d6f6597a76a)
+![image](https://github.com/user-attachments/assets/a122131e-4f1a-4f02-b121-16d5b60c9a7a)
+
+
+
+
+
